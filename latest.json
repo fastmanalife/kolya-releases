@@ -1,0 +1,15 @@
+{
+  "version": "0.4.0-beta.1",
+  "notes": "Автономный приём ДО: ЕСЗ, проверка пересечений, обновление Базы ДО и отчёт в Telegram без VPN.",
+  "pub_date": "2026-08-14T16:17:33Z",
+  "platforms": {
+    "darwin-aarch64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTajRKUDdvaFBPeXpIakVLVmRlVlgzbkhSOWZ1MG9rNDZna3d2QUZ1WjJ6UlhnNGNVMzRHT3QxRFlIbWEwZDRBQzlHaEczSGJOdndjbmZhNFZVNlRnTEdqMTVQYlJCR0E4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2NzIzNDI4CWZpbGU60JrQvtC70Y8uYXBwLnRhci5negpqWkFadkNPV2lDZ00yeXpCSDJJNTRBaTQvSExmQVZHeDFqVGc4VU9KYXdLV3RoY2Y2YkczQ1dCbEp4OTBneVVsc0dZNS9sdjAwZ1JBaUltYkpUTU5EUT09Cg==",
+      "url": "https://github.com/fastmanalife/kolya-releases/releases/download/v0.4.0-beta.1/Kolya-0.4.0-beta.1-universal.app.tar.gz"
+    },
+    "darwin-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTajRKUDdvaFBPeXpIakVLVmRlVlgzbkhSOWZ1MG9rNDZna3d2QUZ1WjJ6UlhnNGNVMzRHT3QxRFlIbWEwZDRBQzlHaEczSGJOdndjbmZhNFZVNlRnTEdqMTVQYlJCR0E4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg2NzIzNDI4CWZpbGU60JrQvtC70Y8uYXBwLnRhci5negpqWkFadkNPV2lDZ00yeXpCSDJJNTRBaTQvSExmQVZHeDFqVGc4VU9KYXdLV3RoY2Y2YkczQ1dCbEp4OTBneVVsc0dZNS9sdjAwZ1JBaUltYkpUTU5EUT09Cg==",
+      "url": "https://github.com/fastmanalife/kolya-releases/releases/download/v0.4.0-beta.1/Kolya-0.4.0-beta.1-universal.app.tar.gz"
+    }
+  }
+}
