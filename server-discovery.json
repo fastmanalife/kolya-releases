@@ -1,4 +1,7 @@
 {
-  "server": "https://evidence-template-builds-parental.trycloudflare.com",
-  "updated_at": "2026-08-14T15:17:40+00:00"
+  "server": "https://guided-calendar-banner-rows.trycloudflare.com",
+  "servers": [
+    "https://guided-calendar-banner-rows.trycloudflare.com"
+  ],
+  "updated_at": "2026-08-15T07:34:26+00:00"
 }
