@@ -1,7 +1,7 @@
 {
-  "server": "https://api.trycloudflare.com",
+  "server": "https://piece-via-fountain-shortcuts.trycloudflare.com",
   "servers": [
-    "https://api.trycloudflare.com"
+    "https://piece-via-fountain-shortcuts.trycloudflare.com"
   ],
-  "updated_at": "2026-09-26T19:46:42+00:00"
+  "updated_at": "2026-09-26T19:46:45+00:00"
 }
